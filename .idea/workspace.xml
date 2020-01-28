@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ecec3dac-a9d6-4a26-82b8-683b7d877d76" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ReadingList/src/main/java/com/manning/readinglist/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReadingList/src/main/java/com/manning/readinglist/ReadingListController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReadingList/src/main/java/com/manning/readinglist/ReadingListRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadingList/RealHelloWorld" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ReadingList" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1X0lbbUbeBHiBjYTBxRA7N543Jt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ReadingList" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ReadinglistApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="readinglist.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.manning.readinglist.ReadinglistApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecec3dac-a9d6-4a26-82b8-683b7d877d76" name="Default Changelist" comment="" />
+      <created>1580190964417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580190964417</updated>
+      <workItem from="1580190979141" duration="4283000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="524" y="83" width="374" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1580195050940">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="524" y="83" width="374" height="626" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1580195050940" />
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1580197346084">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1580197346084" />
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1580197349940">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1580197349940" />
+    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1580197349940">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1580197349940" />
+    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1580197349939">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1580197349939" />
+    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1580197349940">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1580197349940" />
+    <state width="1253" height="175" key="GridCell.Tab.1.bottom" timestamp="1580197349941">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1580197349941" />
+    <state width="1253" height="175" key="GridCell.Tab.1.center" timestamp="1580197349941">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1580197349941" />
+    <state width="1253" height="175" key="GridCell.Tab.1.left" timestamp="1580197349940">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1580197349940" />
+    <state width="1253" height="175" key="GridCell.Tab.1.right" timestamp="1580197349941">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1580197349941" />
+  </component>
+</project>
