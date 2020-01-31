@@ -1,13 +1,13 @@
 package cs.kg.demo;
 
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 @RestController
 public class ControllerAbi {
 
-    @RequestMapping("/")
-    public String index() {
-        return "Greetings boy, greetings";
+    @RequestMapping(value = "/{user}",method = RequestMethod.GET)
+
+    public String index(@PathVariable("user") String user, @RequestParam("name") String name) {
+        return "Greetings from " + user + " and name: " +  name;
     }
 }
