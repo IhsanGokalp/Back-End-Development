@@ -14,6 +14,7 @@ import javax.validation.Valid;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
+import com.example.tacocloud.Ingredient.Type;
 
 @Controller
 @Slf4j
@@ -34,7 +35,7 @@ public class DesignTacoController {
                 new Ingredient("SLSA", "Salsa", Ingredient.Type.SAUCE),
                 new Ingredient("SRCR", "Sour Cream", Ingredient.Type.SAUCE)
                 );
-        Ingredient.Type[] types = Ingredient.Type.values();
+        Type[] types = Ingredient.Type.values();
         for (Ingredient.Type type : types) {
             model.addAttribute(type.toString().toLowerCase(),filterByType(ingredients,type));
         }
